@@ -15,3 +15,5 @@ require (
 	github.com/vmihailenco/tagparser v0.1.2 // indirect
 	google.golang.org/genproto v0.0.0-20221118155620-16455021b5e6 // indirect
 )
+
+replace github.com/BarnabyShearer/dockerhub/v2 => github.com/Mongey/dockerhub/v2 v2.0.0-20250214175832-b3e4893aaf70
